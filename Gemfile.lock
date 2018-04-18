@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  remote: https://gem.fury.io/halfbyte/
+  specs:
+    depfu-private-gem (1.0.0)
+    rake (12.3.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  depfu-private-gem
+  rake
+
+BUNDLED WITH
+   1.16.1
