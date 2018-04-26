@@ -3,6 +3,7 @@ GEM
   remote: https://gem.fury.io/halfbyte/
   specs:
     depfu-private-gem (1.0.0)
+    flowbyte-private (1.0.0)
     rake (12.3.1)
 
 PLATFORMS
@@ -10,6 +11,7 @@ PLATFORMS
 
 DEPENDENCIES
   depfu-private-gem
+  flowbyte-private
   rake
 
 BUNDLED WITH
