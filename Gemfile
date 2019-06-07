@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 source 'https://rubygems.org'
-source 'https://gem.fury.io/flowbyte/'
+source 'http://devfu-geminabox.flowbyte.net/'
 
 gem 'flowbyte-private'
 gem 'rake'
