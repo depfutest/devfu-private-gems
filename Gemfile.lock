@@ -3,7 +3,7 @@ GEM
   remote: https://gem.fury.io/flowbyte/
   specs:
     flowbyte-private (1.0.0)
-    rake (12.1.0)
+    rake (13.0.4)
 
 PLATFORMS
   ruby
